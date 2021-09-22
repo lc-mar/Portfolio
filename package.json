@@ -1,0 +1,26 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "For Homework 2 we had to start from scratch for our code. I followed along with a developer on YouTube to create the shell of my portfolio page and then utilizied Bootstrap as well as several other resources listed below to finalize the styling and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lc-mar/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lc-mar/Portfolio/issues"
+  },
+  "homepage": "https://github.com/lc-mar/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "dotenv": "^10.0.0",
+    "popper": "^1.0.1",
+    "react": "^17.0.2"
+  }
+}
